@@ -47,7 +47,8 @@ Navegue até o arquivo index.html.
 
 Dê um duplo clique para abri-lo em seu navegador padrão.
 
-📝 Autor
-O projeto foi criado por Thallya Bianka.
+✍️ Autor
 
-Email de Contato: thallyabianka@gmail.com
+Thallya Bianka – Desenvolvedora e criadora do projeto.
+
+📧 Contato: thallyabianka@gmail.com
