@@ -49,4 +49,5 @@ Dê um duplo clique para abri-lo em seu navegador padrão.
 
 📝 Autor
 O projeto foi criado por Thallya Bianka.
+
 Email de Contato: thallyabianka@gmail.com
